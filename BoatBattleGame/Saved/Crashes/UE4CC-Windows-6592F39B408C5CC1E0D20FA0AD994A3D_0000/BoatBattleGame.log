@@ -1,0 +1,1285 @@
+﻿Log file open, 03/02/18 19:24:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BoatBattleGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1979220038) SRandInit(-1979220038).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.171851
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: F:/4.18/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.02-08.24.47:189][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.02-08.24.47:189][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.02-08.24.47:219][  0]LogInit: Computer: CONNORPC
+[2018.03.02-08.24.47:219][  0]LogInit: User: Connor
+[2018.03.02-08.24.47:219][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.02-08.24.47:219][  0]LogInit: High frequency timer resolution =3.515638 MHz
+[2018.03.02-08.24.47:220][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.02-08.24.47:220][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.02-08.24.47:220][  0]LogMemory: Process Physical Memory: 272.41 MB used, 272.41 MB peak
+[2018.03.02-08.24.47:220][  0]LogMemory: Process Virtual Memory: 269.73 MB used, 269.73 MB peak
+[2018.03.02-08.24.47:220][  0]LogMemory: Physical Memory: 7883.57 MB used,  8446.99 MB free, 16330.55 MB total
+[2018.03.02-08.24.47:220][  0]LogMemory: Virtual Memory: 677.71 MB used,  8446.99 MB free, 134217728.00 MB total
+[2018.03.02-08.24.47:358][  0]LogInit: Using OS detected language (en-US).
+[2018.03.02-08.24.47:358][  0]LogInit: Using OS detected locale (en-AU).
+[2018.03.02-08.24.47:361][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.02-08.24.47:790][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.02-08.24.53:310][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.02-08.24.53:374][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.03.02-08.24.53:374][  0]LogD3D11RHI:       4060/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.02-08.24.53:377][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.02-08.24.53:377][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.02-08.24.53:377][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.02-08.24.53:395][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.02-08.24.53:395][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.02-08.24.53:395][  0]LogWindows: EnumDisplayDevices:
+[2018.03.02-08.24.53:396][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.03.02-08.24.53:396][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.03.02-08.24.53:396][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.03.02-08.24.53:396][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.03.02-08.24.53:396][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.02-08.24.53:396][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.03.02-08.24.53:396][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.02-08.24.53:396][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.02-08.24.53:396][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2018.03.02-08.24.53:419][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.02-08.24.53:432][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.02-08.24.53:529][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Intermediate/Shaders/WorkingDirectory/109356/).
+[2018.03.02-08.24.53:529][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Connor/AppData/Local/Temp/UnrealShaderWorkingDir/8F4F5496419BF14C0AC1578F74A21876/'.
+[2018.03.02-08.24.53:529][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.02-08.24.54:591][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.02-08.24.54:637][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.02-08.24.54:685][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.02-08.24.54:735][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.02-08.24.54:796][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.02-08.24.54:847][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.02-08.24.54:896][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.02-08.24.54:948][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.02-08.24.54:986][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.02-08.24.55:034][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.02-08.24.55:079][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.02-08.24.55:125][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.02-08.24.55:177][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.02-08.24.55:225][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.02-08.24.55:323][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.02-08.24.55:323][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.02-08.24.55:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.02-08.24.55:415][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.02-08.24.55:509][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.02-08.24.55:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.02-08.24.55:582][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.02-08.24.55:628][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.02-08.24.55:680][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.02-08.24.55:740][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.02-08.24.55:740][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.02-08.24.56:195][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.02-08.24.56:493][  0]LogDerivedDataCache: Loaded boot cache 0.30s 79MB C:/Users/Connor/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.02-08.24.56:493][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Connor/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.02-08.24.56:494][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.02-08.24.56:494][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.02-08.24.56:494][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.02-08.24.56:494][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.02-08.24.56:509][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.02-08.24.56:521][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Connor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.02-08.24.56:535][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.02-08.24.56:535][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.02-08.24.56:562][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.02-08.24.56:562][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.02-08.24.57:645][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.02-08.24.57:979][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.02-08.24.58:015][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.02-08.24.58:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.02-08.24.58:015][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.02-08.24.58:015][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.02-08.24.58:015][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.02-08.24.58:050][  0]LogNetVersion: BoatBattleGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3098943276)
+[2018.03.02-08.24.58:198][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.03.02-08.24.58:705][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.085472 seconds
+[2018.03.02-08.24.58:711][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.02-08.24.58:711][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.02-08.24.58:711][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.02-08.24.58:749][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.02-08.25.15:612][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.02-08.25.15:654][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.02-08.25.16:587][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.02-08.25.17:102][  0]SourceControl: Source control is disabled
+[2018.03.02-08.25.17:102][  0]SourceControl: Source control is disabled
+[2018.03.02-08.25.17:174][  0]SourceControl: Source control is disabled
+[2018.03.02-08.25.17:236][  0]SourceControl: Source control is disabled
+[2018.03.02-08.25.18:491][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.02-08.25.18:766][  0]LogOcInput: OculusInput pre-init called
+[2018.03.02-08.25.19:085][  0]LogEngine: Initializing Engine...
+[2018.03.02-08.25.19:087][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.02-08.25.19:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.02-08.25.19:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.02-08.25.19:432][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.02-08.25.19:444][  0]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.25.19:456][  0]LogInit: FAudioDevice initialized.
+[2018.03.02-08.25.19:582][  0]LogDerivedDataCache: Saved boot cache 0.13s 79MB C:/Users/Connor/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.02-08.25.19:595][  0]LogInit: Texture streaming: Enabled
+[2018.03.02-08.25.19:669][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.02-08.25.19:793][  0]LogInit: Transaction tracking system initialized
+[2018.03.02-08.25.20:076][  0]BlueprintLog: New page: Editor Load
+[2018.03.02-08.25.20:837][  0]LocalizationService: Localization service is disabled
+[2018.03.02-08.25.21:317][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.03.02-08.25.21:317][  0]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2018.03.02-08.25.21:317][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/SideScrollerOverview.SideScrollerOverview_C'
+[2018.03.02-08.25.21:549][  0]LogConsoleResponse: Display: 
+[2018.03.02-08.25.22:035][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.02-08.25.22:035][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.02-08.25.22:035][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.02-08.25.22:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/' took 0.02s
+[2018.03.02-08.25.23:539][  0]SourceControl: Source control is disabled
+[2018.03.02-08.25.23:539][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.02-08.25.23:540][  0]LightingResults: New page: Lighting Build
+[2018.03.02-08.25.23:583][  0]MapCheck: New page: Map Check
+[2018.03.02-08.25.23:583][  0]LightingResults: New page: Lighting Build
+[2018.03.02-08.25.23:828][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.02-08.25.23:834][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.02-08.25.23:847][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.02-08.25.23:909][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.245ms to complete.
+[2018.03.02-08.25.23:909][  0]LogFileHelpers: Loading map 'Template_Default' took 0.370
+[2018.03.02-08.25.24:111][  0]LogCollectionManager: Loaded 0 collections in 0.001013 seconds
+[2018.03.02-08.25.24:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Collections/' took 0.01s
+[2018.03.02-08.25.24:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Developers/Connor/Collections/' took 0.01s
+[2018.03.02-08.25.24:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Collections/' took 0.01s
+[2018.03.02-08.25.24:187][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.02-08.25.24:196][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2363 classes and 519 folders.
+[2018.03.02-08.25.24:254][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.02-08.25.24:699][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.02-08.25.24:737][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.02-08.25.24:755][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.02-08.25.24:758][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.02-08.25.24:763][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.02-08.25.24:906][  0]LogRenderer: Reallocating scene render targets to support 1108x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.02-08.25.25:051][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.02-08.25.25:051][  0]LogLoad: (Engine Initialization) Total time: 41.57 seconds
+[2018.03.02-08.25.25:051][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.02-08.25.25:051][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.02-08.25.25:051][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.02-08.25.25:409][  0]LogAssetRegistry: Asset discovery search completed in 27.2319 seconds
+[2018.03.02-08.25.25:410][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.02-08.25.25:410][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.03.02-08.25.25:413][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.02-08.25.25:489][  0]LogRenderer: Reallocating scene render targets to support 1108x596 Format 10 NumSamples 1 (Frame:2).
+[2018.03.02-08.25.25:489][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.02-08.28.48:171][796]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.02-08.28.48:456][796]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.28.48:474][796]Cmd: MAP LOAD FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.02-08.28.48:474][796]LightingResults: New page: Lighting Build
+[2018.03.02-08.28.48:475][796]LoadErrors: New page: Loading map: Map001.umap
+[2018.03.02-08.28.48:475][796]MapCheck: New page: Map Check
+[2018.03.02-08.28.48:475][796]LightingResults: New page: Lighting Build
+[2018.03.02-08.28.48:488][796]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.02-08.28.48:520][796]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.02-08.28.48:582][796]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.559ms to complete.
+[2018.03.02-08.28.48:582][796]LogFileHelpers: Loading map 'Map001' took 0.109
+[2018.03.02-08.28.48:640][798]LogStaticMesh: Allocated 398x64x64 distance field atlas = 3.1Mb, with 50 objects containing 2.2Mb backing data
+[2018.03.02-08.29.19:950][258]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.02-08.29.20:071][264]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BoatBattleGame
+[2018.03.02-08.29.20:071][264]LogTemp: CWD: F:\4.18\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.02-08.29.20:071][264]LogTemp: Initial Dir: F:\4.18\UE_4.18
+[2018.03.02-08.29.20:071][264]LogTemp: Env CWD: F:\4.18\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.02-08.29.20:071][264]LogTemp: BranchPath = CONNORPC/F/4.18/UE_4.18/Engine/Binaries --- GameBranchPath = CONNORPC/F/4.18/UE_4.18/Engine/Binaries
+[2018.03.02-08.29.20:079][265]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Connor\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.02-08.29.33:631][855]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.02-08.29.45:603][246]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.29.45:634][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.29.45:634][246]PIE: New page: PIE session: Map001 (3 Mar 2018 6:29:45 am)
+[2018.03.02-08.29.45:634][246]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.29.45:639][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004699s)
+[2018.03.02-08.29.45:640][246]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.29.45:640][246]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.03.02-08.29.45:640][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005766s)
+[2018.03.02-08.29.45:654][246]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.29.45:661][246]LogInit: FAudioDevice initialized.
+[2018.03.02-08.29.45:736][246]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.29.45:738][246]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.29.45
+[2018.03.02-08.29.45:739][246]LogWorld: Bringing up level for play took: 0.001046
+[2018.03.02-08.29.45:774][246]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.02-08.29.45:774][246]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.094
+[2018.03.02-08.30.17:019][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.03.02-08.30.31:915][686]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.30.31:931][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.30.31:931][686]PIE: New page: PIE session: Map001 (3 Mar 2018 6:30:31 am)
+[2018.03.02-08.30.31:931][686]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.30.31:936][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004763s)
+[2018.03.02-08.30.31:936][686]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.30.31:936][686]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2018.03.02-08.30.31:937][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005824s)
+[2018.03.02-08.30.31:951][686]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.30.31:958][686]LogInit: FAudioDevice initialized.
+[2018.03.02-08.30.31:990][686]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.30.31:992][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.30.31
+[2018.03.02-08.30.31:992][686]LogWorld: Bringing up level for play took: 0.000902
+[2018.03.02-08.30.31:993][686]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.312
+[2018.03.02-08.30.59:631][960]LogEditorViewport: Clicking on Actor (LMB): BP_Boat_C (BP_Boat)
+[2018.03.02-08.31.06:240][683]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.02-08.31.06:805][683]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.02-08.31.06:856][683]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.02-08.31.06:962][684]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.02-08.32.43:695][133]LogRenderer: Reallocating scene render targets to support 1160x696 Format 10 NumSamples 1 (Frame:1).
+[2018.03.02-08.33.07:697][965]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.33.08:550][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.33.08:633][  5]LogSavePackage: Save=73.12ms
+[2018.03.02-08.33.08:633][  5]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat5481F59E490AF8381055D19785B54D9C.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.33.08:638][  5]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.33.09:172][ 63]LogStaticMesh: Allocated 415x64x64 distance field atlas = 3.2Mb, with 51 objects containing 2.4Mb backing data
+[2018.03.02-08.33.39:199][609]LogEditorTransaction: Undo Delete current selection
+[2018.03.02-08.33.39:388][624]LogEditorTransaction: Undo Move Node
+[2018.03.02-08.33.39:564][637]LogEditorTransaction: Undo Add Node
+[2018.03.02-08.33.39:732][650]LogEditorTransaction: Undo Move Node
+[2018.03.02-08.33.39:914][665]LogEditorTransaction: Undo Add Node
+[2018.03.02-08.33.40:087][679]LogEditorTransaction: Undo Delete current selection
+[2018.03.02-08.33.40:363][705]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.02-08.33.48:214][640]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.33.48:917][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.33.48:987][672]LogSavePackage: Save=65.64ms
+[2018.03.02-08.33.48:987][672]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatCFED3FC645687CC0298BE6B7F5EC58ED.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.33.48:991][672]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.33.58:647][798]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.33.59:394][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.33.59:462][833]LogSavePackage: Save=63.72ms
+[2018.03.02-08.33.59:462][833]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat866A7E054FA297F1B4676F9991C77657.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.33.59:466][833]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.34.19:718][242]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.34.20:469][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.34.20:537][278]LogSavePackage: Save=63.10ms
+[2018.03.02-08.34.20:537][278]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatFA9E3A96442A6C0D6490A7A5352E4CEE.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.34.20:541][278]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.34.21:907][429]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.34.21:936][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.34.21:936][429]PIE: New page: PIE session: Map001 (3 Mar 2018 6:34:21 am)
+[2018.03.02-08.34.21:936][429]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.34.21:940][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004379s)
+[2018.03.02-08.34.21:941][429]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.34.21:941][429]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.03.02-08.34.21:941][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005487s)
+[2018.03.02-08.34.21:991][429]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.34.21:998][429]LogInit: FAudioDevice initialized.
+[2018.03.02-08.34.22:026][429]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.34.22:028][429]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.34.22
+[2018.03.02-08.34.22:028][429]LogWorld: Bringing up level for play took: 0.000937
+[2018.03.02-08.34.22:029][429]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.349
+[2018.03.02-08.34.34:447][885]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.34.38:480][317]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.34.39:119][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.34.39:191][345]LogSavePackage: Save=67.46ms
+[2018.03.02-08.34.39:191][345]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat5D8A2F3F4A7C373BA51BC5BE248CC76D.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.34.39:196][345]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.34.40:420][488]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.34.40:444][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.34.40:444][488]PIE: New page: PIE session: Map001 (3 Mar 2018 6:34:40 am)
+[2018.03.02-08.34.40:444][488]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.34.40:448][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003443s)
+[2018.03.02-08.34.40:448][488]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.34.40:448][488]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2018.03.02-08.34.40:449][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004416s)
+[2018.03.02-08.34.40:469][488]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.34.40:476][488]LogInit: FAudioDevice initialized.
+[2018.03.02-08.34.40:507][488]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.34.40:509][488]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.34.40
+[2018.03.02-08.34.40:509][488]LogWorld: Bringing up level for play took: 0.000966
+[2018.03.02-08.34.40:510][488]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.83
+[2018.03.02-08.34.51:570][788]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.34.52:206][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.34.52:277][812]LogSavePackage: Save=66.09ms
+[2018.03.02-08.34.52:277][812]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat34A09FD142B9705365C50B960940A820.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.34.52:282][812]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.34.53:440][948]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.34.53:468][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.34.53:468][948]PIE: New page: PIE session: Map001 (3 Mar 2018 6:34:53 am)
+[2018.03.02-08.34.53:468][948]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.34.53:472][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003623s)
+[2018.03.02-08.34.53:473][948]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.34.53:473][948]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2018.03.02-08.34.53:473][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004547s)
+[2018.03.02-08.34.53:497][948]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.34.53:503][948]LogInit: FAudioDevice initialized.
+[2018.03.02-08.34.53:536][948]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.34.53:538][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.34.53
+[2018.03.02-08.34.53:538][948]LogWorld: Bringing up level for play took: 0.000942
+[2018.03.02-08.34.53:539][948]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.142
+[2018.03.02-08.36.02:823][231]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.36.03:424][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.36.03:495][253]LogSavePackage: Save=66.63ms
+[2018.03.02-08.36.03:495][253]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat3C34F25C41731E8F2F064FA53272FE43.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.36.03:499][253]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.36.04:522][372]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.36.04:550][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.36.04:550][372]PIE: New page: PIE session: Map001 (3 Mar 2018 6:36:04 am)
+[2018.03.02-08.36.04:550][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.36.04:555][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004387s)
+[2018.03.02-08.36.04:555][372]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.36.04:556][372]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.03.02-08.36.04:556][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005708s)
+[2018.03.02-08.36.04:578][372]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.36.04:585][372]LogInit: FAudioDevice initialized.
+[2018.03.02-08.36.04:616][372]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.36.04:618][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.36.04
+[2018.03.02-08.36.04:618][372]LogWorld: Bringing up level for play took: 0.000890
+[2018.03.02-08.36.04:619][372]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.938
+[2018.03.02-08.37.10:216][185]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.02-08.37.13:299][546]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.37.28:036][248]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.37.28:615][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.37.28:694][269]LogSavePackage: Save=74.43ms
+[2018.03.02-08.37.28:694][269]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat8FE6FB9D4005EEA73F74828864FA7D5F.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.37.28:700][269]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.37.29:842][404]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.37.29:867][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.37.29:867][404]PIE: New page: PIE session: Map001 (3 Mar 2018 6:37:29 am)
+[2018.03.02-08.37.29:867][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.37.29:872][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004193s)
+[2018.03.02-08.37.29:872][404]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.37.29:873][404]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.03.02-08.37.29:873][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005502s)
+[2018.03.02-08.37.29:894][404]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.37.29:901][404]LogInit: FAudioDevice initialized.
+[2018.03.02-08.37.29:932][404]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.37.29:933][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.37.29
+[2018.03.02-08.37.29:934][404]LogWorld: Bringing up level for play took: 0.000990
+[2018.03.02-08.37.29:935][404]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.254
+[2018.03.02-08.37.43:237][978]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.37.43:983][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.37.44:052][ 18]LogSavePackage: Save=63.72ms
+[2018.03.02-08.37.44:052][ 18]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatE09B8C1143EE8C81F27BB681EA7327FE.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.37.44:056][ 18]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.37.45:033][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.37.45:057][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.37.45:058][134]PIE: New page: PIE session: Map001 (3 Mar 2018 6:37:45 am)
+[2018.03.02-08.37.45:058][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.37.45:061][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003655s)
+[2018.03.02-08.37.45:062][134]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.37.45:062][134]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.03.02-08.37.45:062][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004704s)
+[2018.03.02-08.37.45:085][134]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.37.45:093][134]LogInit: FAudioDevice initialized.
+[2018.03.02-08.37.45:124][134]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.37.45:125][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.37.45
+[2018.03.02-08.37.45:126][134]LogWorld: Bringing up level for play took: 0.001021
+[2018.03.02-08.37.45:127][134]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.554
+[2018.03.02-08.38.56:550][678]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.38.57:256][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.38.57:331][713]LogSavePackage: Save=65.21ms
+[2018.03.02-08.38.57:331][713]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatC67DA0454A1B4F1EACDEB39319A32F31.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.38.57:336][713]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.38.59:066][919]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.38.59:091][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.38.59:091][919]PIE: New page: PIE session: Map001 (3 Mar 2018 6:38:59 am)
+[2018.03.02-08.38.59:091][919]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.38.59:095][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003723s)
+[2018.03.02-08.38.59:095][919]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.38.59:096][919]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.03.02-08.38.59:096][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004750s)
+[2018.03.02-08.38.59:118][919]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.38.59:127][919]LogInit: FAudioDevice initialized.
+[2018.03.02-08.38.59:158][919]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.38.59:159][919]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.38.59
+[2018.03.02-08.38.59:160][919]LogWorld: Bringing up level for play took: 0.001039
+[2018.03.02-08.38.59:160][919]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.52
+[2018.03.02-08.39.58:603][975]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.02-08.40.05:887][835]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.02-08.40.15:516][969]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.40.16:244][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.40.16:314][999]LogSavePackage: Save=65.41ms
+[2018.03.02-08.40.16:314][999]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatDEA840EB4CE318E0CB2A3EB14DFE3DF1.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.40.16:318][999]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.40.21:598][624]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.40.22:191][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.40.22:261][640]LogSavePackage: Save=64.13ms
+[2018.03.02-08.40.22:261][640]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatF8B84D8F4F86F4A163951B9ABEF54AA7.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.40.22:265][640]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.40.23:254][756]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.40.23:274][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.40.23:274][756]PIE: New page: PIE session: Map001 (3 Mar 2018 6:40:23 am)
+[2018.03.02-08.40.23:274][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.40.23:279][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004087s)
+[2018.03.02-08.40.23:279][756]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.40.23:279][756]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.03.02-08.40.23:280][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005394s)
+[2018.03.02-08.40.23:305][756]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.40.23:314][756]LogInit: FAudioDevice initialized.
+[2018.03.02-08.40.23:344][756]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.40.23:346][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.40.23
+[2018.03.02-08.40.23:346][756]LogWorld: Bringing up level for play took: 0.000977
+[2018.03.02-08.40.23:347][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.333
+[2018.03.02-08.41.30:470][110]BlueprintLog: New page: Compile HoverComponent
+[2018.03.02-08.41.31:005][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HoverComponent" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset" SILENT=true
+[2018.03.02-08.41.31:053][152]LogSavePackage: Save=37.57ms
+[2018.03.02-08.41.31:053][152]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/HoverComponentD237781F4F37CDD1C6873A9C1CB5BA99.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset'
+[2018.03.02-08.41.31:057][152]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset
+[2018.03.02-08.41.33:122][372]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.41.33:138][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.41.33:138][372]PIE: New page: PIE session: Map001 (3 Mar 2018 6:41:33 am)
+[2018.03.02-08.41.33:138][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.41.33:142][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003530s)
+[2018.03.02-08.41.33:142][372]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.41.33:143][372]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2018.03.02-08.41.33:143][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004522s)
+[2018.03.02-08.41.33:165][372]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.41.33:171][372]LogInit: FAudioDevice initialized.
+[2018.03.02-08.41.33:203][372]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.41.33:204][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.41.33
+[2018.03.02-08.41.33:205][372]LogWorld: Bringing up level for play took: 0.000904
+[2018.03.02-08.41.33:206][372]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.475
+[2018.03.02-08.42.21:838][153]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.42.22:544][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.42.22:612][182]LogSavePackage: Save=63.36ms
+[2018.03.02-08.42.22:612][182]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat9B086CFF49429580850DD6A252646C69.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.42.22:616][182]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.42.24:403][393]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.42.24:428][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.42.24:429][393]PIE: New page: PIE session: Map001 (3 Mar 2018 6:42:24 am)
+[2018.03.02-08.42.24:429][393]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.42.24:432][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003611s)
+[2018.03.02-08.42.24:433][393]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.42.24:433][393]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2018.03.02-08.42.24:433][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004631s)
+[2018.03.02-08.42.24:455][393]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.42.24:462][393]LogInit: FAudioDevice initialized.
+[2018.03.02-08.42.24:492][393]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.42.24:494][393]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.42.24
+[2018.03.02-08.42.24:494][393]LogWorld: Bringing up level for play took: 0.000964
+[2018.03.02-08.42.24:495][393]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.815
+[2018.03.02-08.42.58:354][430]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.02-08.43.04:519][156]BlueprintLog: New page: Compile HoverComponent
+[2018.03.02-08.43.05:014][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HoverComponent" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset" SILENT=true
+[2018.03.02-08.43.05:057][204]LogSavePackage: Save=38.29ms
+[2018.03.02-08.43.05:057][204]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/HoverComponent619F18AC4F8E07933140D0AB81A7F33C.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset'
+[2018.03.02-08.43.05:061][204]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset
+[2018.03.02-08.43.06:676][392]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-08.43.07:379][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-08.43.07:448][424]LogSavePackage: Save=64.04ms
+[2018.03.02-08.43.07:448][424]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat086C6DA94DEDCD1680A7DBA7A3C0D942.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-08.43.07:450][424]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-08.43.08:791][583]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-08.43.08:821][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-08.43.08:821][583]PIE: New page: PIE session: Map001 (3 Mar 2018 6:43:08 am)
+[2018.03.02-08.43.08:821][583]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-08.43.08:825][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004153s)
+[2018.03.02-08.43.08:826][583]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-08.43.08:826][583]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.03.02-08.43.08:827][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005297s)
+[2018.03.02-08.43.08:850][583]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-08.43.08:856][583]LogInit: FAudioDevice initialized.
+[2018.03.02-08.43.08:890][583]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-08.43.08:891][583]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-19.43.08
+[2018.03.02-08.43.08:892][583]LogWorld: Bringing up level for play took: 0.000886
+[2018.03.02-08.43.08:892][583]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.788
+[2018.03.02-08.44.31:301][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map001" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.02-08.44.31:383][144]LogSavePackage: Save=51.76ms
+[2018.03.02-08.44.31:383][144]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Map001F844680D4FA0A5EC8C7111BCD133845A.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001.umap'
+[2018.03.02-08.44.31:387][144]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001.umap
+[2018.03.02-08.44.31:429][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map001_BuiltData" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001_BuiltData.uasset" SILENT=true
+[2018.03.02-08.44.31:477][144]LogSavePackage: Save=30.13ms
+[2018.03.02-08.44.31:477][144]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Map001_BuiltDataF8C7335C41FCA9BF8DF9BF946D83EDC6.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001_BuiltData.uasset'
+[2018.03.02-08.44.31:480][144]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Maps/Map001_BuiltData.uasset
+[2018.03.02-08.54.31:695][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map001" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.02-08.54.31:757][732]LogSavePackage: Save=49.78ms
+[2018.03.02-08.54.31:757][732]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Map001_Auto1D9CAAEC342B6235A0B606DA6C4CBC73F.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto1.umap'
+[2018.03.02-08.54.31:759][732]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto1.umap
+[2018.03.02-08.54.31:761][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map001' took 0.089
+[2018.03.02-08.54.31:761][732]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.089
+[2018.03.02-08.54.31:764][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Boat] ([1] browsable assets)...
+[2018.03.02-08.54.31:787][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boat.BP_Boat]
+[2018.03.02-08.54.31:787][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boat]
+[2018.03.02-08.54.31:787][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Blueprints/BP_Boat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.02-08.54.31:869][732]LogSavePackage: Save=72.70ms
+[2018.03.02-08.54.31:869][732]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat_Auto11CDA62DB4FE4D2D1D3B59B994D5D296B.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Blueprints/BP_Boat_Auto1.uasset'
+[2018.03.02-08.54.31:872][732]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Blueprints/BP_Boat_Auto1.uasset
+[2018.03.02-08.54.31:872][732]LogFileHelpers: Auto-saving content packages took 0.110
+[2018.03.02-09.00.29:379][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.00.29:448][929]LogSavePackage: Save=59.07ms
+[2018.03.02-09.00.29:448][929]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat63C9A6A745EF459B67F600A33BB0BE6F.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.00.29:454][929]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.00.30:523][ 54]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.00.31:335][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.00.31:406][102]LogSavePackage: Save=65.25ms
+[2018.03.02-09.00.31:406][102]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat2B77FE804FF82408D32970AA47ACB26C.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.00.31:408][102]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.02.06:302][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.02.06:334][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.02-09.02.06:348][357]LogPlayLevel: [PlayLevel] Compiling BP_Boat before play...
+[2018.03.02-09.02.06:716][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 382 ms (1 blueprints)
+[2018.03.02-09.02.06:717][357]PIE: New page: PIE session: Map001 (3 Mar 2018 7:02:06 am)
+[2018.03.02-09.02.06:717][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.02.06:722][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004908s)
+[2018.03.02-09.02.06:723][357]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.02.06:723][357]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2018.03.02-09.02.06:723][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.006520s)
+[2018.03.02-09.02.06:746][357]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.02.06:753][357]LogInit: FAudioDevice initialized.
+[2018.03.02-09.02.06:783][357]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.02.06:785][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.02.06
+[2018.03.02-09.02.06:785][357]LogWorld: Bringing up level for play took: 0.000981
+[2018.03.02-09.02.06:786][357]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 1.106
+[2018.03.02-09.02.51:089][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.03.02-09.03.09:747][834]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.03.09:769][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.03.09:770][834]PIE: New page: PIE session: Map001 (3 Mar 2018 7:03:09 am)
+[2018.03.02-09.03.09:770][834]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.03.09:774][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004149s)
+[2018.03.02-09.03.09:775][834]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.03.09:775][834]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.03.02-09.03.09:775][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005133s)
+[2018.03.02-09.03.09:798][834]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.03.09:806][834]LogInit: FAudioDevice initialized.
+[2018.03.02-09.03.09:840][834]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.03.09:841][834]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.03.09
+[2018.03.02-09.03.09:842][834]LogWorld: Bringing up level for play took: 0.000991
+[2018.03.02-09.03.09:843][834]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.162
+[2018.03.02-09.07.32:588][471]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.07.33:490][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.07.33:575][515]LogSavePackage: Save=72.93ms
+[2018.03.02-09.07.33:575][515]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat50AEDA19413C858072EE8AA58A5EE179.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.07.33:580][515]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.07.39:806][258]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.07.40:515][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.07.40:598][293]LogSavePackage: Save=76.64ms
+[2018.03.02-09.07.40:598][293]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatF57647F24B7A3DF3B61D0B833F201D20.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.07.40:602][293]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.07.41:993][458]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.07.42:023][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.07.42:024][458]PIE: New page: PIE session: Map001 (3 Mar 2018 7:07:42 am)
+[2018.03.02-09.07.42:024][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.07.42:028][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004156s)
+[2018.03.02-09.07.42:028][458]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.07.42:029][458]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.03.02-09.07.42:029][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005220s)
+[2018.03.02-09.07.42:050][458]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.07.42:057][458]LogInit: FAudioDevice initialized.
+[2018.03.02-09.07.42:090][458]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.07.42:091][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.07.42
+[2018.03.02-09.07.42:092][458]LogWorld: Bringing up level for play took: 0.000908
+[2018.03.02-09.07.42:093][458]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.412
+[2018.03.02-09.07.55:526][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.07.55:543][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.07.55:544][ 48]PIE: New page: PIE session: Map001 (3 Mar 2018 7:07:55 am)
+[2018.03.02-09.07.55:544][ 48]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.07.55:547][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003459s)
+[2018.03.02-09.07.55:548][ 48]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.07.55:548][ 48]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.03.02-09.07.55:548][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004537s)
+[2018.03.02-09.07.55:570][ 48]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.07.55:577][ 48]LogInit: FAudioDevice initialized.
+[2018.03.02-09.07.55:608][ 48]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.07.55:610][ 48]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.07.55
+[2018.03.02-09.07.55:610][ 48]LogWorld: Bringing up level for play took: 0.001249
+[2018.03.02-09.07.55:611][ 48]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.069
+[2018.03.02-09.08.18:870][790]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.08.19:489][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.08.19:569][812]LogSavePackage: Save=75.39ms
+[2018.03.02-09.08.19:569][812]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatE1A04F88453C4AB497F05E8D69AC0608.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.08.19:574][812]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.08.20:487][920]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.08.20:517][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.08.20:517][920]PIE: New page: PIE session: Map001 (3 Mar 2018 7:08:20 am)
+[2018.03.02-09.08.20:517][920]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.08.20:521][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003721s)
+[2018.03.02-09.08.20:522][920]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.08.20:522][920]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.03.02-09.08.20:522][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004848s)
+[2018.03.02-09.08.20:545][920]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.08.20:552][920]LogInit: FAudioDevice initialized.
+[2018.03.02-09.08.20:582][920]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.08.20:584][920]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.08.20
+[2018.03.02-09.08.20:584][920]LogWorld: Bringing up level for play took: 0.000932
+[2018.03.02-09.08.20:585][920]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.905
+[2018.03.02-09.08.34:604][559]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.08.35:163][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.08.35:244][562]LogSavePackage: Save=75.75ms
+[2018.03.02-09.08.35:244][562]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat72C153B946224DEBC81A2386555420E3.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.08.35:248][562]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.08.36:617][725]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.08.36:647][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.08.36:647][725]PIE: New page: PIE session: Map001 (3 Mar 2018 7:08:36 am)
+[2018.03.02-09.08.36:647][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.08.36:651][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003642s)
+[2018.03.02-09.08.36:651][725]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.08.36:651][725]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2018.03.02-09.08.36:652][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004461s)
+[2018.03.02-09.08.36:675][725]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.08.36:681][725]LogInit: FAudioDevice initialized.
+[2018.03.02-09.08.36:714][725]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.08.36:715][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.08.36
+[2018.03.02-09.08.36:716][725]LogWorld: Bringing up level for play took: 0.000915
+[2018.03.02-09.08.36:716][725]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 1.036
+[2018.03.02-09.09.56:593][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map001" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.02-09.09.56:670][828]LogSavePackage: Save=63.27ms
+[2018.03.02-09.09.56:670][828]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Map001_Auto275FF747244F3C441F005DC82E216A8DE.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto2.umap'
+[2018.03.02-09.09.56:673][828]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto2.umap
+[2018.03.02-09.09.56:681][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map001' took 0.110
+[2018.03.02-09.09.56:681][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.110
+[2018.03.02-09.11.03:210][263]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.11.03:237][263]LogBlueprint: Error: [Compiler BP_Boat] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2018.03.02-09.11.03:374][263]LogBlueprint: Warning: [Compiler BP_Boat] [2779.89] Compile of BP_Boat failed. 1 Fatal Issue(s) 0 Warning(s) [in 163 ms] (/Game/Blueprints/BP_Boat.BP_Boat)
+[2018.03.02-09.11.04:212][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.11.04:289][358]LogSavePackage: Save=71.69ms
+[2018.03.02-09.11.04:289][358]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat73FAEB384FF16467E64EF3A451CCD378.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.11.04:293][358]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.12.00:120][393]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.12.00:763][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.12.00:785][428]LogSavePackage: Save=19.50ms
+[2018.03.02-09.12.00:785][428]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH65CD5A1C4AF637A494FC0C95074A0938.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.12.00:789][428]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.12.06:558][ 96]LogEditorTransaction: Undo Edit Static Mesh
+[2018.03.02-09.12.06:929][139]LogEditorTransaction: Undo Make New Scene Root
+[2018.03.02-09.12.45:264][626]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.12.46:507][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.12.46:537][726]LogSavePackage: Save=18.58ms
+[2018.03.02-09.12.46:537][726]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH512305664EE8169E4A2F5A8FD166527D.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.12.46:542][726]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.13.44:533][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/HoverComponent" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset" SILENT=true
+[2018.03.02-09.13.44:580][623]LogSavePackage: Save=37.17ms
+[2018.03.02-09.13.44:580][623]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/HoverComponentA11B9DA14257D187809789B48E57AFBA.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset'
+[2018.03.02-09.13.44:582][623]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Assets/HoverComponent.uasset
+[2018.03.02-09.14.07:981][413]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.14.08:654][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.14.08:682][451]LogSavePackage: Save=21.72ms
+[2018.03.02-09.14.08:682][451]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CHF7592CF74BDFC3150DC784BEF2866CD5.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.14.08:687][451]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.14.11:219][753]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.14.11:223][753]LogBlueprint: Error: [Compiler BP_Missile_CH] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.03.02-09.14.11:324][753]LogBlueprint: Warning: [Compiler BP_Missile_CH] [2967.84] Compile of BP_Missile_CH failed. 1 Fatal Issue(s) 0 Warning(s) [in 104 ms] (/Game/Blueprints/BP_Missile_CH.BP_Missile_CH)
+[2018.03.02-09.14.12:533][897]LogEditorTransaction: Undo Delete current selection
+[2018.03.02-09.14.13:423][  1]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.14.14:185][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.14.14:213][ 56]LogSavePackage: Save=21.98ms
+[2018.03.02-09.14.14:213][ 56]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH72F1C9CE4F639A18BAC604ADAB4231E4.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.14.14:217][ 56]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.14.21:175][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.14.21:196][888]LogSavePackage: Save=15.78ms
+[2018.03.02-09.14.21:196][888]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH02774BCF4B1EB627759813B2AEB3F9A1.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.14.21:201][888]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.14.38:981][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.14.39:000][994]LogSavePackage: Save=13.83ms
+[2018.03.02-09.14.39:000][994]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CHD9CEF0824BE3D3E684A4789FA735059D.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.14.39:002][994]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.15.35:761][898]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.02-09.15.40:450][448]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.15.41:190][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.15.41:278][515]LogSavePackage: Save=78.50ms
+[2018.03.02-09.15.41:278][515]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat629C40DB4810B3CD72BE06AB915A9361.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.15.41:282][515]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.16.38:302][271]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.16.39:038][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.16.39:128][307]LogSavePackage: Save=84.10ms
+[2018.03.02-09.16.39:128][307]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat3A471EA84EBF4814B6D1F7B4F844D09F.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.16.39:132][307]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.16.42:157][666]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.16.42:193][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.16.42:193][666]PIE: New page: PIE session: Map001 (3 Mar 2018 7:16:42 am)
+[2018.03.02-09.16.42:193][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.16.42:198][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004661s)
+[2018.03.02-09.16.42:199][666]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.16.42:199][666]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.03.02-09.16.42:199][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005722s)
+[2018.03.02-09.16.42:222][666]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.16.42:229][666]LogInit: FAudioDevice initialized.
+[2018.03.02-09.16.42:260][666]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.16.42:262][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.16.42
+[2018.03.02-09.16.42:262][666]LogWorld: Bringing up level for play took: 0.000922
+[2018.03.02-09.16.42:263][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.583
+[2018.03.02-09.16.55:989][221]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.16.56:478][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.16.56:564][229]LogSavePackage: Save=80.02ms
+[2018.03.02-09.16.56:564][229]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatE7A5E3DD4EEB3E0B5F093A93C4190EC5.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.16.56:569][229]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.16.57:967][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.16.58:000][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.16.58:000][395]PIE: New page: PIE session: Map001 (3 Mar 2018 7:16:58 am)
+[2018.03.02-09.16.58:000][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.16.58:003][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003350s)
+[2018.03.02-09.16.58:004][395]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.16.58:004][395]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.03.02-09.16.58:004][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004411s)
+[2018.03.02-09.16.58:029][395]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.16.58:035][395]LogInit: FAudioDevice initialized.
+[2018.03.02-09.16.58:068][395]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.16.58:070][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.16.58
+[2018.03.02-09.16.58:070][395]LogWorld: Bringing up level for play took: 0.000908
+[2018.03.02-09.16.58:071][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.39
+[2018.03.02-09.17.34:773][754]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.17.35:416][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.17.35:444][788]LogSavePackage: Save=22.41ms
+[2018.03.02-09.17.35:444][788]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CHFB97E56147F3910670B82FAB47B51AA2.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.17.35:449][788]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.17.36:469][908]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.17.36:488][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.17.36:489][908]PIE: New page: PIE session: Map001 (3 Mar 2018 7:17:36 am)
+[2018.03.02-09.17.36:489][908]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.17.36:493][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003903s)
+[2018.03.02-09.17.36:493][908]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.17.36:493][908]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2018.03.02-09.17.36:494][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004766s)
+[2018.03.02-09.17.36:521][908]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.17.36:527][908]LogInit: FAudioDevice initialized.
+[2018.03.02-09.17.36:559][908]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.17.36:561][908]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.17.36
+[2018.03.02-09.17.36:561][908]LogWorld: Bringing up level for play took: 0.001114
+[2018.03.02-09.17.36:562][908]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.881
+[2018.03.02-09.17.49:916][487]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.17.50:596][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.17.50:685][517]LogSavePackage: Save=83.15ms
+[2018.03.02-09.17.50:685][517]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat859369F3483AC27F3C59E2B262AEE3A1.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.17.50:690][517]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.17.52:087][683]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.17.52:121][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.17.52:121][683]PIE: New page: PIE session: Map001 (3 Mar 2018 7:17:52 am)
+[2018.03.02-09.17.52:121][683]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.17.52:125][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003750s)
+[2018.03.02-09.17.52:126][683]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.17.52:126][683]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.03.02-09.17.52:126][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004717s)
+[2018.03.02-09.17.52:149][683]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.17.52:155][683]LogInit: FAudioDevice initialized.
+[2018.03.02-09.17.52:187][683]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.17.52:188][683]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.17.52
+[2018.03.02-09.17.52:188][683]LogWorld: Bringing up level for play took: 0.000990
+[2018.03.02-09.17.52:190][683]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.509
+[2018.03.02-09.18.35:599][840]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.18.36:582][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.18.36:668][903]LogSavePackage: Save=80.13ms
+[2018.03.02-09.18.36:668][903]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat6A099DD141BCC12CD880748229B2F006.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.18.36:672][903]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.19.20:443][127]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.19.21:212][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.19.21:297][167]LogSavePackage: Save=78.56ms
+[2018.03.02-09.19.21:297][167]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatFC8AE87349BC0C04F9EBA891B655CBD7.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.19.21:301][167]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.19.23:044][374]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.19.23:081][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.19.23:081][374]PIE: New page: PIE session: Map001 (3 Mar 2018 7:19:23 am)
+[2018.03.02-09.19.23:081][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.19.23:086][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004771s)
+[2018.03.02-09.19.23:086][374]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.19.23:087][374]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2018.03.02-09.19.23:087][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005776s)
+[2018.03.02-09.19.23:110][374]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.19.23:117][374]LogInit: FAudioDevice initialized.
+[2018.03.02-09.19.23:150][374]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.19.23:151][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.19.23
+[2018.03.02-09.19.23:151][374]LogWorld: Bringing up level for play took: 0.000938
+[2018.03.02-09.19.23:152][374]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.528
+[2018.03.02-09.20.16:829][694]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.20.48:497][421]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.20.53:624][992]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.20.54:371][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.20.54:411][ 41]LogSavePackage: Save=28.77ms
+[2018.03.02-09.20.54:411][ 41]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH814D0DC14D575896AD0F3D9C694E0EA1.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.20.54:415][ 41]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.20.57:779][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.20.57:802][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.20.57:802][442]PIE: New page: PIE session: Map001 (3 Mar 2018 7:20:57 am)
+[2018.03.02-09.20.57:803][442]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.20.57:807][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004006s)
+[2018.03.02-09.20.57:807][442]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.20.57:807][442]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2018.03.02-09.20.57:808][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005192s)
+[2018.03.02-09.20.57:833][442]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.20.57:842][442]LogInit: FAudioDevice initialized.
+[2018.03.02-09.20.57:872][442]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.20.57:873][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.20.57
+[2018.03.02-09.20.57:874][442]LogWorld: Bringing up level for play took: 0.001053
+[2018.03.02-09.20.57:875][442]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.194
+[2018.03.02-09.21.16:071][606]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.21.16:687][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.21.16:722][642]LogSavePackage: Save=29.28ms
+[2018.03.02-09.21.16:722][642]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH2EF593044EF03626E83C31A49D2AEA40.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.21.16:727][642]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.21.17:942][785]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.21.17:963][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.21.17:963][785]PIE: New page: PIE session: Map001 (3 Mar 2018 7:21:17 am)
+[2018.03.02-09.21.17:963][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.21.17:967][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003835s)
+[2018.03.02-09.21.17:967][785]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.21.17:968][785]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.03.02-09.21.17:968][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004758s)
+[2018.03.02-09.21.17:993][785]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.21.17:999][785]LogInit: FAudioDevice initialized.
+[2018.03.02-09.21.18:029][785]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.21.18:030][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.21.18
+[2018.03.02-09.21.18:030][785]LogWorld: Bringing up level for play took: 0.000947
+[2018.03.02-09.21.18:031][785]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.351
+[2018.03.02-09.21.19:338][938]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.21.20:388][ 64]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.21.21:471][194]PIE: Warning: BP_Missile_CH_C_2.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.21.22:528][319]PIE: Warning: BP_Missile_CH_C_3.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.21.31:218][264]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.21.31:240][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.21.31:240][264]PIE: New page: PIE session: Map001 (3 Mar 2018 7:21:31 am)
+[2018.03.02-09.21.31:240][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.21.31:244][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004366s)
+[2018.03.02-09.21.31:245][264]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.21.31:245][264]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.03.02-09.21.31:246][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005691s)
+[2018.03.02-09.21.31:270][264]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.21.31:277][264]LogInit: FAudioDevice initialized.
+[2018.03.02-09.21.31:307][264]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.21.31:308][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.21.31
+[2018.03.02-09.21.31:308][264]LogWorld: Bringing up level for play took: 0.000950
+[2018.03.02-09.21.31:309][264]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.371
+[2018.03.02-09.21.32:808][407]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.21.33:832][508]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.21.34:940][615]PIE: Warning: BP_Missile_CH_C_2.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.22.11:153][890]LogEditorTransaction: Undo Delete current selection
+[2018.03.02-09.22.33:506][947]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.22.34:034][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.22.34:069][964]LogSavePackage: Save=29.19ms
+[2018.03.02-09.22.34:070][964]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH15F6C4AD4AF9B48BCD0115ADCD5F6205.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.22.34:074][964]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.22.39:380][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.22.39:407][488]LogSavePackage: Save=21.18ms
+[2018.03.02-09.22.39:407][488]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH6998635E42E90D6A0B6524A21027D589.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.22.39:409][488]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.23.06:275][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map001" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.02-09.23.06:335][188]LogSavePackage: Save=49.15ms
+[2018.03.02-09.23.06:335][188]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Map001_Auto39D05B1DB4401C2E85038B5BE7E9F51CD.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto3.umap'
+[2018.03.02-09.23.06:337][188]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/Autosaves/Game/Maps/Map001_Auto3.umap
+[2018.03.02-09.23.06:340][188]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map001' took 0.086
+[2018.03.02-09.23.06:340][188]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2018.03.02-09.23.33:035][ 92]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.23.34:346][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.23.34:453][197]LogSavePackage: Save=95.22ms
+[2018.03.02-09.23.34:453][197]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat00B94BFC4D04657B108ECCBEA45A19AB.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.23.34:458][197]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.23.35:938][348]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.23.35:973][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.23.35:974][348]PIE: New page: PIE session: Map001 (3 Mar 2018 7:23:35 am)
+[2018.03.02-09.23.35:974][348]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.23.35:978][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004280s)
+[2018.03.02-09.23.35:979][348]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.23.35:979][348]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.03.02-09.23.35:979][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005419s)
+[2018.03.02-09.23.36:002][348]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.23.36:009][348]LogInit: FAudioDevice initialized.
+[2018.03.02-09.23.36:041][348]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.23.36:043][348]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.23.36
+[2018.03.02-09.23.36:043][348]LogWorld: Bringing up level for play took: 0.001028
+[2018.03.02-09.23.36:044][348]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.363
+[2018.03.02-09.24.07:190][726]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.24.07:814][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.24.07:902][749]LogSavePackage: Save=82.27ms
+[2018.03.02-09.24.07:902][749]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatA37FAB4F46B6ED5ED9466FB7F0D35EF7.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.24.07:907][749]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.24.09:167][872]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.24.09:203][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.24.09:203][872]PIE: New page: PIE session: Map001 (3 Mar 2018 7:24:09 am)
+[2018.03.02-09.24.09:203][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.24.09:207][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003902s)
+[2018.03.02-09.24.09:208][872]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.24.09:208][872]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.03.02-09.24.09:208][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004825s)
+[2018.03.02-09.24.09:232][872]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.24.09:239][872]LogInit: FAudioDevice initialized.
+[2018.03.02-09.24.09:272][872]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.24.09:273][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.24.09
+[2018.03.02-09.24.09:273][872]LogWorld: Bringing up level for play took: 0.000926
+[2018.03.02-09.24.09:274][872]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.406
+[2018.03.02-09.25.02:506][777]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.25.03:269][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.25.03:303][822]LogSavePackage: Save=27.36ms
+[2018.03.02-09.25.03:303][822]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH411B957B4721CD9140D89284FF8BF75A.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.25.03:307][822]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.25.08:527][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.25.08:556][405]LogSavePackage: Save=21.94ms
+[2018.03.02-09.25.08:556][405]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CHF739844D47688AC2C966A8BC954381F5.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.25.08:558][405]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.25.09:839][548]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.25.10:541][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.25.10:631][578]LogSavePackage: Save=84.26ms
+[2018.03.02-09.25.10:631][578]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat5ED3B2FB4714F74A2CBB51B88E1B1A5E.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.25.10:635][578]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.25.11:632][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.25.11:665][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.25.11:665][670]PIE: New page: PIE session: Map001 (3 Mar 2018 7:25:11 am)
+[2018.03.02-09.25.11:665][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.25.11:669][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003903s)
+[2018.03.02-09.25.11:670][670]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.25.11:670][670]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2018.03.02-09.25.11:670][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004920s)
+[2018.03.02-09.25.11:695][670]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.25.11:702][670]LogInit: FAudioDevice initialized.
+[2018.03.02-09.25.11:735][670]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.25.11:737][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.25.11
+[2018.03.02-09.25.11:737][670]LogWorld: Bringing up level for play took: 0.000957
+[2018.03.02-09.25.11:738][670]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.057
+[2018.03.02-09.25.13:203][803]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.25.14:209][896]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.25.20:215][418]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.25.20:882][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.25.20:915][448]LogSavePackage: Save=27.06ms
+[2018.03.02-09.25.20:915][448]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH77D6511F4D62F829B647528DD8DFE641.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.25.20:919][448]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.25.22:015][541]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.25.22:034][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.25.22:034][541]PIE: New page: PIE session: Map001 (3 Mar 2018 7:25:22 am)
+[2018.03.02-09.25.22:034][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.25.22:039][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004347s)
+[2018.03.02-09.25.22:039][541]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.25.22:039][541]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.03.02-09.25.22:040][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005316s)
+[2018.03.02-09.25.22:063][541]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.25.22:070][541]LogInit: FAudioDevice initialized.
+[2018.03.02-09.25.22:102][541]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.25.22:103][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.25.22
+[2018.03.02-09.25.22:104][541]LogWorld: Bringing up level for play took: 0.000942
+[2018.03.02-09.25.22:104][541]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.424
+[2018.03.02-09.25.23:555][670]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.25.24:696][777]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.25.25:700][870]PIE: Warning: BP_Missile_CH_C_2.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.25.28:289][120]PIE: Warning: BP_Missile_CH_C_3.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.27.54:690][331]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.27.55:449][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.27.55:500][375]LogSavePackage: Save=39.91ms
+[2018.03.02-09.27.55:500][375]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CHCB28B4084DDE928F8EEB4BA4CD1CE165.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.27.55:505][375]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.27.57:638][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.27.57:661][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.27.57:661][608]PIE: New page: PIE session: Map001 (3 Mar 2018 7:27:57 am)
+[2018.03.02-09.27.57:662][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.27.57:666][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003956s)
+[2018.03.02-09.27.57:666][608]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.27.57:666][608]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.03.02-09.27.57:667][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005199s)
+[2018.03.02-09.27.57:689][608]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.27.57:696][608]LogInit: FAudioDevice initialized.
+[2018.03.02-09.27.57:724][608]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.27.57:725][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.27.57
+[2018.03.02-09.27.57:725][608]LogWorld: Bringing up level for play took: 0.001091
+[2018.03.02-09.27.57:726][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.046
+[2018.03.02-09.27.59:059][754]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.27.59:059][754]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.28.00:208][878]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.28.00:208][878]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.28.16:327][576]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.28.16:909][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.28.16:993][590]LogSavePackage: Save=77.54ms
+[2018.03.02-09.28.16:993][590]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatF0C1EE3240BB4A208387FDAAA4F8F7A2.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.28.16:997][590]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.28.18:436][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.28.18:466][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.28.18:467][734]PIE: New page: PIE session: Map001 (3 Mar 2018 7:28:18 am)
+[2018.03.02-09.28.18:467][734]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.28.18:470][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003676s)
+[2018.03.02-09.28.18:471][734]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.28.18:471][734]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.03.02-09.28.18:471][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004715s)
+[2018.03.02-09.28.18:494][734]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.28.18:501][734]LogInit: FAudioDevice initialized.
+[2018.03.02-09.28.18:528][734]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.28.18:530][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.28.18
+[2018.03.02-09.28.18:530][734]LogWorld: Bringing up level for play took: 0.001122
+[2018.03.02-09.28.18:531][734]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 0.85
+[2018.03.02-09.28.19:826][870]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.28.19:827][870]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.28.20:904][991]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.28.20:904][991]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.07:349][241]LogBlueprint: Warning: [BP_Boat] 'PhysicsNormalizeValue' variable not found. Base class was probably changed. /Game/Blueprints/BP_Boat.BP_Boat
+[2018.03.02-09.29.07:349][241]LogBlueprint: Warning: [BP_Boat] 'MissileForce' variable not found. Base class was probably changed. /Game/Blueprints/BP_Boat.BP_Boat
+[2018.03.02-09.29.16:352][225]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.29.25:576][198]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.29.27:201][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.29.27:303][329]LogSavePackage: Save=89.90ms
+[2018.03.02-09.29.27:303][329]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat248036FD4042742347CB4591D79EDA3D.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.29.27:308][329]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.29.31:518][804]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.29.32:233][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.29.32:325][836]LogSavePackage: Save=85.77ms
+[2018.03.02-09.29.32:325][836]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Boat015A710D49E5FA2384CD9CB338D28B44.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.29.32:329][836]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.29.33:536][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.29.33:571][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.29.33:571][956]PIE: New page: PIE session: Map001 (3 Mar 2018 7:29:33 am)
+[2018.03.02-09.29.33:571][956]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.29.33:575][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004215s)
+[2018.03.02-09.29.33:576][956]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.29.33:576][956]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.03.02-09.29.33:576][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005156s)
+[2018.03.02-09.29.33:600][956]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.29.33:608][956]LogInit: FAudioDevice initialized.
+[2018.03.02-09.29.33:639][956]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.29.33:641][956]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.29.33
+[2018.03.02-09.29.33:641][956]LogWorld: Bringing up level for play took: 0.000958
+[2018.03.02-09.29.33:642][956]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.038
+[2018.03.02-09.29.34:930][ 87]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.34:930][ 87]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.35:940][197]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.35:940][197]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.46:731][379]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.29.47:456][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.29.47:547][408]LogSavePackage: Save=84.58ms
+[2018.03.02-09.29.47:547][408]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatBBF875A9447CAF6270CC4991510C4B36.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.29.47:552][408]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.29.48:974][555]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.29.49:012][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.29.49:013][555]PIE: New page: PIE session: Map001 (3 Mar 2018 7:29:49 am)
+[2018.03.02-09.29.49:013][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.29.49:017][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003776s)
+[2018.03.02-09.29.49:017][555]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.29.49:017][555]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.03.02-09.29.49:017][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.004618s)
+[2018.03.02-09.29.49:040][555]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.29.49:046][555]LogInit: FAudioDevice initialized.
+[2018.03.02-09.29.49:076][555]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.29.49:077][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.29.49
+[2018.03.02-09.29.49:077][555]LogWorld: Bringing up level for play took: 0.000895
+[2018.03.02-09.29.49:078][555]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.602
+[2018.03.02-09.29.50:377][694]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.50:377][694]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.50:377][694]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.51:490][815]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.51:490][815]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.29.51:490][815]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.17:217][597]BlueprintLog: New page: Compile BP_Boat
+[2018.03.02-09.31.18:187][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boat" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset" SILENT=true
+[2018.03.02-09.31.18:279][639]LogSavePackage: Save=85.66ms
+[2018.03.02-09.31.18:279][639]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_BoatAEA5E0854717A8B6E9C7A591EDD49632.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset'
+[2018.03.02-09.31.18:284][639]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Boat.uasset
+[2018.03.02-09.31.21:126][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.02-09.31.21:161][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.02-09.31.21:161][873]PIE: New page: PIE session: Map001 (3 Mar 2018 7:31:21 am)
+[2018.03.02-09.31.21:161][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map001
+[2018.03.02-09.31.21:165][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004309s)
+[2018.03.02-09.31.21:166][873]LogAIModule: Creating AISystem for world Map001
+[2018.03.02-09.31.21:166][873]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.03.02-09.31.21:167][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map001.Map001 to /Game/Maps/UEDPIE_0_Map001.Map001 (0.005616s)
+[2018.03.02-09.31.21:189][873]LogInit: XAudio2 using 'Headset Earphone (6- Astro MixAmp Pro Voice)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.02-09.31.21:196][873]LogInit: FAudioDevice initialized.
+[2018.03.02-09.31.21:228][873]LogLoad: Game class is 'CustomGameMode_C'
+[2018.03.02-09.31.21:230][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map001.Map001 up for play (max tick rate 0) at 2018.03.02-20.31.21
+[2018.03.02-09.31.21:230][873]LogWorld: Bringing up level for play took: 0.001025
+[2018.03.02-09.31.21:231][873]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map001 -0.449
+[2018.03.02-09.31.22:612][989]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.22:612][989]PIE: Warning: BP_Missile_CH_C_0.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.23:705][ 83]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.23:705][ 83]PIE: Warning: BP_Missile_CH_C_1.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.25:865][265]PIE: Warning: BP_Missile_CH_C_2.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.25:865][265]PIE: Warning: BP_Missile_CH_C_2.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.29:753][585]PIE: Warning: BP_Missile_CH_C_3.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.29:753][585]PIE: Warning: BP_Missile_CH_C_3.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.30:863][671]PIE: Warning: BP_Missile_CH_C_4.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.31.30:863][671]PIE: Warning: BP_Missile_CH_C_4.MissileMesh has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2018.03.02-09.32.30:617][ 73]BlueprintLog: New page: Compile BP_Missile_CH
+[2018.03.02-09.32.31:440][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Missile_CH" FILE="C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset" SILENT=true
+[2018.03.02-09.32.31:478][115]LogSavePackage: Save=31.26ms
+[2018.03.02-09.32.31:478][115]LogSavePackage: Moving 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Saved/BP_Missile_CH8284E19D4ADD04C25B9C16A07138D5C4.tmp' to 'C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset'
+[2018.03.02-09.32.31:483][115]LogSavePackage: Display: Finished SavePackage C:/Users/Connor/Documents/BoatBattle/BoatBattleGame/Content/Blueprints/BP_Missile_CH.uasset
+[2018.03.02-09.32.32:413][207]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.03.02-09.32.32:788][207]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.375 s
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: 
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: Stack: 
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000009A092786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000099E3123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000099E4B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000006DAB33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000096AA03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000075103EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000074F974AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000074F9ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x00000000750C8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x00000000971D7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x00000000971DCE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000097419913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x0000000097233484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000009722D1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000009722C953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000001E4F69CA UE4Editor.exe!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000001E505430 UE4Editor.exe!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000001E5054AA UE4Editor.exe!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000001E512379 UE4Editor.exe!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x000000001E513D57 UE4Editor.exe!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x00000000D2511FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: [Callstack] 0x00000000D49FEFC1 ntdll.dll!UnknownFunction []
+[2018.03.02-09.32.32:788][207]LogOutputDevice: Error: 
+[2018.03.02-09.32.32:796][207]LogStats:                SubmitErrorReport -  0.000 s
